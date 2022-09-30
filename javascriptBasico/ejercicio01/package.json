@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio01",
+  "version": "1.0.0",
+  "description": "primer ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "mensaje": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+  },
+  "author": "lucianoDev",
+  "license": "ISC"
+}
